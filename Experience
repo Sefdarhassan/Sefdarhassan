@@ -1,0 +1,37 @@
+# Expérience Inerte : Observateur immobile pour détecter la rotation de la Terre
+
+## Objectif
+
+Proposer une expérience simple pour vérifier la rotation de la Terre par un objet suspendu dans un environnement quasi inerte.
+
+## Description de l'expérience
+
+- **Contexte** : La Terre tourne à environ 360° toutes les 24 heures, soit 15° par heure.
+- **Proposition** : Suspendre un objet long (comme une règle) dans un caisson très isolé (réduction de la gravité et des frottements).
+- **Observation** : L'objet devrait conserver son orientation absolue tandis que le caisson (avec la Terre) tourne sous lui.
+- **Attendu** : Après environ 6 heures, l'objet paraîtrait incliné de 90° par rapport au caisson.
+
+## Matériel requis
+
+- Un caisson à très faible gravité.
+- Une règle ou barre fine, rigide et légère.
+- Caméra ou système de suivi sur plusieurs heures.
+
+## Hypothèse de base
+
+- Si la Terre tourne, l'objet restera orienté vers une direction fixe de l'espace.
+- Son orientation relative au caisson changera avec le temps.
+
+## Conclusion potentielle
+
+- Si l'objet s'incline : confirmation visuelle de la rotation terrestre.
+- Si l'objet ne bouge pas : phénomène à analyser.
+
+## Créateur
+
+- Idée originale : Sefdar Hassan
+- Partenariat technique : Initiative Sefdar-AI
+
+## Licence
+
+Distribué sous licence Creative Commons Attribution 4.0 International (CC BY 4.0).
